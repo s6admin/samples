@@ -46,16 +46,9 @@ namespace SecureCheckout
             request.Method = "POST";
             request.ContentType = "application/x-www-form-urlencoded";
             request.ContentLength = bytes.Length;
-
-			// S6 Added (error after clicking Start Order button) https://stackoverflow.com/questions/2859790/the-request-was-aborted-could-not-create-ssl-tls-secure-channel
-			ServicePointManager.Expect100Continue = true;
-			ServicePointManager.SecurityProtocol = SecurityProtocolType.Ssl3;
-
-			// Establish test certificate
-			// https://serverfault.com/questions/131046/how-to-grant-iis-7-5-access-to-a-certificate-in-certificate-store/132791#132791
-
-			// send validation request
-			Stream str = request.GetRequestStream();
+            
+            // send validation request
+            Stream str = request.GetRequestStream();
             str.Write(bytes, 0, bytes.Length);
             str.Flush();
             str.Close();

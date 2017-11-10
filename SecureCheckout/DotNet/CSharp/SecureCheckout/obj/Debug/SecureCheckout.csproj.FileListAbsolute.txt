@@ -3,3 +3,9 @@ C:\DevProjects\paytrace\samples\SecureCheckout\DotNet\SecureCheckout\SecureCheck
 C:\DevProjects\paytrace\samples\SecureCheckout\DotNet\SecureCheckout\SecureCheckout\obj\Debug\ResolveAssemblyReference.cache
 C:\DevProjects\paytrace\samples\SecureCheckout\DotNet\SecureCheckout\SecureCheckout\obj\Debug\SecureCheckout.dll
 C:\DevProjects\paytrace\samples\SecureCheckout\DotNet\SecureCheckout\SecureCheckout\obj\Debug\SecureCheckout.pdb
+C:\_SideSixMedia\ProjectsNew\SafetyMeetingOutlinesInc\Website\PayTrace Samples\SecureCheckout\DotNet\CSharp\SecureCheckout\bin\SecureCheckout.dll.config
+C:\_SideSixMedia\ProjectsNew\SafetyMeetingOutlinesInc\Website\PayTrace Samples\SecureCheckout\DotNet\CSharp\SecureCheckout\bin\SecureCheckout.dll
+C:\_SideSixMedia\ProjectsNew\SafetyMeetingOutlinesInc\Website\PayTrace Samples\SecureCheckout\DotNet\CSharp\SecureCheckout\bin\SecureCheckout.pdb
+C:\_SideSixMedia\ProjectsNew\SafetyMeetingOutlinesInc\Website\PayTrace Samples\SecureCheckout\DotNet\CSharp\SecureCheckout\obj\Debug\SecureCheckout.csprojResolveAssemblyReference.cache
+C:\_SideSixMedia\ProjectsNew\SafetyMeetingOutlinesInc\Website\PayTrace Samples\SecureCheckout\DotNet\CSharp\SecureCheckout\obj\Debug\SecureCheckout.dll
+C:\_SideSixMedia\ProjectsNew\SafetyMeetingOutlinesInc\Website\PayTrace Samples\SecureCheckout\DotNet\CSharp\SecureCheckout\obj\Debug\SecureCheckout.pdb
